@@ -1,39 +1,128 @@
-## Hi there 👋
-# 💫 About Me:
-Junior Flutter Developer with 1 year of experience building cross-platform mobile apps using Flutter, Dart, Clean Architecture, and the BLoC pattern. I’ve worked on real-world applications including delivery, movie, wallet, and AI-powered allergy detection apps, with strong experience in Firebase, REST APIs, local storage, and Git/GitHub. I focus on writing clean, maintainable code and delivering responsive, high-quality mobile experiences.
+<h1 align="center">Hi 👋, I'm Ahmed Abdelkream</h1>
+<h3 align="center">Flutter Developer | Clean Architecture | BLoC & Riverpod</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ahmed.D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelkream-38403527b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.abdelkreem.me@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedme2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedme2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedme2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://github.com/ahmedme2002">
+    <img src="https://komarev.com/ghpvc/?username=ahmedme2002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmedme2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**ahmedme2002/ahmedme2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I am a **Flutter Developer** with over **1 year of hands-on experience** building real-world, production-ready mobile applications for Android and iOS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on:
+- Writing **clean, maintainable, and scalable code**
+- Applying **Clean Architecture** principles
+- Using modern **state management** solutions
+- Building "real" apps — not tutorial demos
+
+I am passionate about continuous learning, problem-solving, and delivering high-quality mobile experiences.
+
+---
+
+## 🧠 Core Skills
+
+### 📱 Mobile Development
+- Flutter & Dart
+- Responsive UI & Custom Widgets
+- Android & iOS App Development
+
+### 🧩 State Management
+- BLoC / Cubit
+- Riverpod
+- Provider
+
+### 🏗 Architecture & Practices
+- Clean Architecture
+- SOLID Principles
+- Separation of Concerns
+- Reusable Components
+
+### 🌐 Backend & APIs
+- REST API Integration
+- JSON Serialization
+- Error Handling
+- Pagination & Authentication Flows
+
+### 🔥 Firebase
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging (FCM)
+- Firebase Storage
+
+### 🛠 Tools & DevOps
+- Git & GitHub
+- CI/CD Basics
+- Postman
+- VS Code / Android Studio
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Health Care App
+- Appointment booking & user authentication
+- Clean Architecture + BLoC
+- Firebase Auth & Firestore
+- Scalable UI components
+
+### 💳 Fintech Application
+- Secure authentication flow
+- REST API integration
+- State management using BLoC
+- Form validation & error handling
+
+### 🚚 Delivery / Service App
+- Real-time data handling
+- Offline-first architecture
+- Modular feature-based structure
+
+> 📌 **Note:** Source code and demos are available in my repositories below.
+
+---
+
+## 📂 Repositories
+🔗 **GitHub:**  
+👉 https://github.com/ahmedme2002
+
+Each repository includes:
+- Clear project structure
+- Meaningful commit history
+- README explaining app architecture
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-abdelkream-38403527b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Abdelkream-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+📧 **Email:** ahmed.abdelkreem.me@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedme2002" alt="GitHub streak" />
+</p>
+
+---
+
+## ✨ Final Notes
+
+- I value **clean code over quick hacks**
+- I enjoy working in **collaborative, growth-oriented teams**
+- Open to **remote full-time Flutter opportunities**
+
+⭐ If you like my work, feel free to explore my repositories or reach out!
