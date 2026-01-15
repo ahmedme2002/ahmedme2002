@@ -107,18 +107,6 @@ Each repository includes:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedme2002" alt="GitHub streak" />
-</p>
-
----
-
 ## ✨ Final Notes
 
 - I value **clean code over quick hacks**
