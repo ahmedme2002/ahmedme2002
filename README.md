@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelkream</h1>
-<h3 align="center">Flutter Developer | Clean Architecture | BLoC & Riverpod</h3>
+<h3 align="center">Flutter Developer | Clean Architecture | AI-Enhanced Development</h3>
 
 <p align="center">
   <a href="https://github.com/ahmedme2002">
@@ -11,87 +11,54 @@
 
 ## 👨‍💻 About Me
 
-I am a **Flutter Developer** with over **1 year of hands-on experience** building real-world, production-ready mobile applications for Android and iOS.
+I am a **Flutter Developer** focused on building production-ready mobile applications. I specialize in combining **Clean Architecture** with modern state management (BLoC/Riverpod) to create scalable apps.
 
-I focus on:
-- Writing **clean, maintainable, and scalable code**
-- Applying **Clean Architecture** principles
-- Using modern **state management** solutions
-- Building "real" apps — not tutorial demos
+Currently, I am leveraging **AI and Large Language Models (LLMs)** to accelerate development workflows, optimize code quality, and integrate intelligent features into mobile apps.
 
-I am passionate about continuous learning, problem-solving, and delivering high-quality mobile experiences.
+* 🔭 I’m currently working on: **GluGlu (AI Allergy Detection)** & **Crypto Wallet App**
+* 🤝 I’m open to: **Junior Flutter Developer roles** (Remote/Hybrid)
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Tech Stack
 
-### 📱 Mobile Development
-- Flutter & Dart
-- Responsive UI & Custom Widgets
-- Android & iOS App Development
-
-### 🧩 State Management
-- BLoC / Cubit
-- Riverpod
-- Provider
-
-### 🏗 Architecture & Practices
-- Clean Architecture
-- SOLID Principles
-- Separation of Concerns
-- Reusable Components
-
-### 🌐 Backend & APIs
-- REST API Integration
-- JSON Serialization
-- Error Handling
-- Pagination & Authentication Flows
-
-### 🔥 Firebase
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Cloud Messaging (FCM)
-- Firebase Storage
-
-### 🛠 Tools & DevOps
-- Git & GitHub
-- CI/CD Basics
-- Postman
-- VS Code / Android Studio
+| **Category** | **Technologies** |
+|:--- |:--- |
+| **Mobile** | Flutter, Dart, Android, iOS, Responsive UI |
+| **Architecture** | Clean Architecture, MVVM, SOLID, Dependency Injection |
+| **State Management** | BLoC (Cubit), Riverpod, Provider |
+| **AI & Backend** | **OpenAI API**, **Prompt Engineering**, Firebase (Auth, Firestore, FCM), REST APIs |
+| **Local Data** | Hive, SQLite, Shared Preferences (Offline-first) |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Health Care App
-- Appointment booking & user authentication
-- Clean Architecture + BLoC
-- Firebase Auth & Firestore
-- Scalable UI components
+### 🥗 [GluGlu - Allergy Detection App](LINK_TO_GLUGLU_REPO_HERE)
+*Collaborative Client Project | Flutter & OpenAI*
+A health-tech app that scans product barcodes/images and uses AI to detect allergens based on user profiles.
+* **Tech:** BLoC, Clean Architecture, OpenAI API, Firebase Auth/Firestore.
+* **Key Feature:** Real-time AI safety assessment of food ingredients.
 
-### 💳 Fintech Application
-- Secure authentication flow
-- REST API integration
-- State management using BLoC
-- Form validation & error handling
+### 💳 [Crypto Wallet - Fintech App](LINK_TO_WALLET_REPO_HERE)
+*Technical Project | Flutter & REST API*
+A cryptocurrency portfolio tracker handling real-time data for 500+ coins.
+* **Tech:** Clean Architecture, REST API Integration, WebSocket (if applicable).
+* **Key Feature:** Live market data visualization and portfolio management.
 
-### 🚚 Delivery / Service App
-- Real-time data handling
-- Offline-first architecture
-- Modular feature-based structure
-
-> 📌 **Note:** Source code and demos are available in my repositories below.
+### 🛵 [Yalla - Delivery Service](LINK_TO_YALLA_REPO_HERE)
+*Delivery Application | Flutter & Firebase*
+A full-featured delivery app with cart management and order tracking.
+* **Tech:** Firebase Cloud Messaging, Provider/BLoC, Multi-category browsing.
 
 ---
 
-## 📂 Repositories
-🔗 **GitHub:**  
-👉 https://github.com/ahmedme2002
+## 📈 GitHub Stats
 
-Each repository includes:
-- Clear project structure
-- Meaningful commit history
-- README explaining app architecture
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=radical" alt="Ahmed's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -99,18 +66,9 @@ Each repository includes:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-abdelkream-38403527b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Abdelkream-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:ahmed.abdelkreem.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
-
-📧 **Email:** ahmed.abdelkreem.me@gmail.com
-
----
-
-## ✨ Final Notes
-
-- I value **clean code over quick hacks**
-- I enjoy working in **collaborative, growth-oriented teams**
-- Open to **remote full-time Flutter opportunities**
-
-⭐ If you like my work, feel free to explore my repositories or reach out!
