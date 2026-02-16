@@ -3,7 +3,7 @@
   <h3>Flutter Developer | Clean Architecture | AI-Enhanced Development</h3>
 
   <p>
-    <a href="https://linkedin.com/in/ahmed-abdelkream-38403527b">
+    <a href="https://www.linkedin.com/in/ahmed-abdelkream/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:ahmed.abdelkreem.me@gmail.com">
