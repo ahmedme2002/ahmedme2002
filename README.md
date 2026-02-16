@@ -83,23 +83,6 @@ A full-featured delivery platform for food and medicine.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 📬 Connect with Me
-
-I am currently **open to new opportunities** as a Flutter Developer. Whether you have a question about my projects, want to discuss Clean Architecture, or just want to say hi, feel free to drop me an email!
-
-<div align="center">
-  <a href="mailto:ahmed.abdelkreem.me@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ahmed.abdelkreem.me@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <br />
-  <br />
-  <a href="https://www.linkedin.com/in/ahmed-abdelkream/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
 <p align="center">
   Developed with ❤️ by Ahmed Abdelkream
 </p>
