@@ -6,9 +6,9 @@
     <a href="https://www.linkedin.com/in/ahmed-abdelkream/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:ahmed.abdelkreem.me@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
+  <a href="mailto:ahmed.abdelkreem.me@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ahmed.abdelkreem.me@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   </p>
 
   <p>
