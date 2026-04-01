@@ -9,9 +9,9 @@
     <a href="https://www.linkedin.com/in/ahmed-abdelkream/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
-  <a href="mailto:ahmed.abdelkreem.me@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ahmed.abdelkreem.me@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+    <a href="mailto:ahmed.abdelkreem.me@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-ahmed.abdelkreem.me@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
   </p>
 
   <p>
@@ -81,18 +81,22 @@ A full-featured delivery platform for food and medicine.
 
 <div align="center">
 
-  <!-- Animated stat card with icons and rank -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Ahmed's Stats" />
+  <!-- Row 1: Stats card + Streak card side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180" alt="Ahmed's Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=ahmedme2002&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" height="180" alt="GitHub Streak"/>
 
   <br/><br/>
 
-  <!-- Streak stats — animated fire streak counter -->
-  <img src="https://streak-stats.demolab.com?user=ahmedme2002&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <!-- Row 2: Full-width animated contribution activity graph with area fill -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedme2002&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=ffffff&color=8b949e" width="100%" alt="Contribution Graph"/>
 
   <br/><br/>
 
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <!-- Row 3: Top languages + GitHub trophies side by side -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=400" height="180" alt="Top Languages"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedme2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" height="180" alt="Trophies"/>
 
 </div>
 
