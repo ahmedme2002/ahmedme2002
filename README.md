@@ -80,9 +80,20 @@ A full-featured delivery platform for food and medicine.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=radical" alt="Ahmed's Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- Animated stat card with icons and rank -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Ahmed's Stats" />
+
+  <br/><br/>
+
+  <!-- Streak stats — animated fire streak counter -->
+  <img src="https://streak-stats.demolab.com?user=ahmedme2002&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+
 </div>
 
 <p align="center">
