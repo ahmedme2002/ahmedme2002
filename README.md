@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm Ahmed Abdelkream</h1>
-  <h3>Flutter Developer | Clean Architecture | AI-Enhanced Development</h3>
+  
+  <a href="https://github.com/ahmedme2002">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI-Enabled+Flutter+Developer;Clean+Architecture+Advocate;Building+High-Velocity+Mobile+Apps" alt="Typing Animation" />
+  </a>
 
   <p>
     <a href="https://www.linkedin.com/in/ahmed-abdelkream/">
@@ -20,24 +23,24 @@
 
 ## 👨‍💻 About Me
 
-I am a **Flutter Developer** with over a year of experience building production-ready mobile applications. I specialize in combining **Clean Architecture** with modern state management to create scalable, maintainable apps.
+I am an **AI-Enabled Flutter Developer** with over a year of hands-on experience building production-ready mobile applications. I specialize in combining **Clean Architecture** with BLoC state management to create highly scalable, maintainable apps.
 
-Currently, I am leveraging **Generative AI & LLMs** to accelerate development workflows. I use AI not just for code completion, but for **complex problem solving**, **prompt engineering**, and integrating intelligent features directly into mobile apps.
+I do not just write code; I leverage an advanced AI workflow to accelerate development and solve complex problems. By utilizing AI pair-programmers and intelligent IDEs, I eliminate boilerplate and focus strictly on high-level architecture and business logic. 
 
-* 🔭 **Current Focus:** Building AI-powered health tech solutions.
-* 👯 **Collaboration:** I excel in team environments (2+ developers) using Git flow.
-* ⚡ **Core Value:** I build "real" apps with robust error handling and offline support, not just happy-path demos.
+* 🔭 **Current Focus:** Engineering the Voice Log feature for the **CalKam** health application.
+* ⚡ **High-Velocity Workflow:** I code heavily using Warp Terminal alongside modern LLM assistants (Claude 4.6 Opus, Gemini 3.1) and Cloud Code to maximize my daily output.
+* 👯 **Collaboration:** I excel in Agile team environments using Git flow, CI/CD, and rigorous code-review practices.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & AI Workflow
 
-| **Core Mobile** | **Architecture & State** | **AI & Backend** |
+| **Core Mobile** | **Architecture & State** | **AI Workflows & Integration** |
 |:--- |:--- |:--- |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![Clean Arch](https://img.shields.io/badge/Architecture-Clean-green?style=flat) | ![OpenAI](https://img.shields.io/badge/AI-OpenAI_GPT_4-412991?style=flat&logo=openai&logoColor=white) |
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![BLoC](https://img.shields.io/badge/State-BLoC_&_Cubit-purple?style=flat) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Riverpod](https://img.shields.io/badge/State-Riverpod-blue?style=flat) | ![REST API](https://img.shields.io/badge/API-RESTful-orange?style=flat) |
-| ![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat&logo=apple&logoColor=white) | ![DI](https://img.shields.io/badge/Pattern-Dependency_Injection-red?style=flat) | ![Prompting](https://img.shields.io/badge/Skill-Prompt_Engineering-yellow?style=flat) |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![Clean Arch](https://img.shields.io/badge/Architecture-Clean-green?style=flat) | ![Warp](https://img.shields.io/badge/Terminal-Warp_&_OpenClaw-FF4A00?style=flat) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![BLoC](https://img.shields.io/badge/State-BLoC_&_Cubit-purple?style=flat) | ![AI IDEs](https://img.shields.io/badge/Tools-Cloud_Code_&_Antigravity-4285F4?style=flat) |
+| ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Riverpod](https://img.shields.io/badge/State-Riverpod-blue?style=flat) | ![Models](https://img.shields.io/badge/Models-Claude_4.6_|_Gemini_3.1_|_GLM_5-000000?style=flat) |
+| ![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat&logo=apple&logoColor=white) | ![DI](https://img.shields.io/badge/Pattern-Dependency_Injection-red?style=flat) | ![OpenAI](https://img.shields.io/badge/API-OpenAI_Vision_&_Audio-412991?style=flat&logo=openai&logoColor=white) |
 
 ---
 
@@ -53,8 +56,8 @@ Currently, I am leveraging **Generative AI & LLMs** to accelerate development wo
 
 ### 💡 Key Technical Features
 * **AI Integration:** Engineered system prompts to make GPT-4 act as a dietician, outputting strict JSON for UI rendering.
-* **Dual-Mode Scanning:** Implemented barcode scanning (database) AND visual OCR (text recognition) for items without barcodes.
 * **Architecture:** Built on Clean Architecture with BLoC to ensure the scanning logic is testable and separated from the UI.
+* **Dual-Mode Scanning:** Implemented barcode scanning (database) AND visual OCR (text recognition) for items without barcodes.
 
 ---
 
@@ -64,8 +67,7 @@ Currently, I am leveraging **Generative AI & LLMs** to accelerate development wo
 *> **Tech:** Flutter, Clean Architecture, REST API, BLoC*
 A collaborative fintech project designed to track real-time cryptocurrency markets.
 * **Key Achievement:** Successfully handled real-time data streams for **500+ cryptocurrencies** without UI lag.
-* **Teamwork:** Co-developed with another engineer, using Git for version control and feature branching.
-* **Features:** Portfolio analytics, price alerts, and secure local data storage.
+* **Security:** Implemented biometric authentication and secure local data storage.
 
 ### 🛵 [Yalla - Delivery Service](LINK_TO_YALLA_REPO_HERE)
 *> **Tech:** Flutter, Firebase Auth, Firestore, FCM*
