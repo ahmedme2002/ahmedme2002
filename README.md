@@ -28,7 +28,7 @@ I am an **AI-Enabled Flutter Developer** with over a year of hands-on experience
 I do not just write code; I leverage an advanced AI workflow to accelerate development and solve complex problems. By utilizing AI pair-programmers and intelligent IDEs, I eliminate boilerplate and focus strictly on high-level architecture and business logic. 
 
 * 🔭 **Current Focus:** Engineering the Voice Log feature for the **CalKam** health application.
-* ⚡ **High-Velocity Workflow:** I code heavily using Warp Terminal alongside modern LLM assistants (Claude 4.6 Opus, Gemini 3.1) and Cloud Code to maximize my daily output.
+* ⚡ **High-Velocity Workflow:** I code heavily using Warp Terminal alongside modern LLM assistants and Cloud Code to maximize my daily output.
 * 👯 **Collaboration:** I excel in Agile team environments using Git flow, CI/CD, and rigorous code-review practices.
 
 ---
@@ -39,8 +39,8 @@ I do not just write code; I leverage an advanced AI workflow to accelerate devel
 |:--- |:--- |:--- |
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![Clean Arch](https://img.shields.io/badge/Architecture-Clean-green?style=flat) | ![Warp](https://img.shields.io/badge/Terminal-Warp_&_OpenClaw-FF4A00?style=flat) |
 | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![BLoC](https://img.shields.io/badge/State-BLoC_&_Cubit-purple?style=flat) | ![AI IDEs](https://img.shields.io/badge/Tools-Cloud_Code_&_Antigravity-4285F4?style=flat) |
-| ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Riverpod](https://img.shields.io/badge/State-Riverpod-blue?style=flat) | ![Models](https://img.shields.io/badge/Models-Claude_4.6_|_Gemini_3.1_|_GLM_5-000000?style=flat) |
-| ![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat&logo=apple&logoColor=white) | ![DI](https://img.shields.io/badge/Pattern-Dependency_Injection-red?style=flat) | ![OpenAI](https://img.shields.io/badge/API-OpenAI_Vision_&_Audio-412991?style=flat&logo=openai&logoColor=white) |
+| ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Riverpod](https://img.shields.io/badge/State-Riverpod-blue?style=flat) | ![OpenAI](https://img.shields.io/badge/API-OpenAI_Vision_&_Audio-412991?style=flat&logo=openai&logoColor=white) |
+| ![iOS](https://img.shields.io/badge/Platform-iOS-000000?style=flat&logo=apple&logoColor=white) | ![DI](https://img.shields.io/badge/Pattern-Dependency_Injection-red?style=flat) | |
 
 ---
 
@@ -79,12 +79,13 @@ A full-featured delivery platform for food and medicine.
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=radical" alt="Ahmed's Stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 <p align="center">
+  <br>
   Developed with ❤️ by Ahmed Abdelkream
 </p>
