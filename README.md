@@ -1,4 +1,4 @@
-<div align="center">
+This is my GitHub profile. I'd like to update and improve the GitHub statistics section because it's very poor and it's static. Please search for developer profiles on GitHub and add smooth and attractive animations to this section. Based on your search                            <div align="center">
   <h1>Hi 👋, I'm Ahmed Abdelkream</h1>
   
   <a href="https://github.com/ahmedme2002">
