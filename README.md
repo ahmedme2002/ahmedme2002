@@ -50,9 +50,10 @@ I do not just write code; I leverage an advanced AI workflow to accelerate devel
 **GluGlu** is a health-tech app that uses AI to protect users with severe allergies. It analyzes product ingredients in real-time to detect hidden risks based on a user's specific health profile.
 
 ### 📸 App Gallery (Click to Enlarge)
+
 | **Personalized Health Passport** | **Smart Product Scanning** | **AI Ingredient Analysis** | **Instant Safety Alerts** |
 |:---:|:---:|:---:|:---:|
-| <a href="screenshots/profile_passport.png"><img src="screenshots/profile_passport.png" width="180" alt="User Profile"/></a> | <a href="screenshots/scan_product.png"><img src="screenshots/scan_product.png" width="180" alt="Scanning Product"/></a> | <a href="screenshots/scan_ingredients.png"><img src="screenshots/scan_ingredients.png" width="180" alt="Scanning Ingredients"/></a> | <a href="screenshots/ai_result.png"><img src="screenshots/ai_result.png" width="180" alt="AI Result"/></a> |
+| <img src="PASTE_YOUR_IMAGE_LINK_HERE" width="180" alt="User Profile"/> | <img src="PASTE_YOUR_IMAGE_LINK_HERE" width="180" alt="Scanning Product"/> | <img src="PASTE_YOUR_IMAGE_LINK_HERE" width="180" alt="Scanning Ingredients"/> | <img src="PASTE_YOUR_IMAGE_LINK_HERE" width="180" alt="AI Result"/> |
 
 ### 💡 Key Technical Features
 * **AI Integration:** Engineered system prompts to make GPT-4 act as a dietician, outputting strict JSON for UI rendering.
@@ -80,9 +81,12 @@ A full-featured delivery platform for food and medicine.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=radical" alt="Ahmed's Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedme2002&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
