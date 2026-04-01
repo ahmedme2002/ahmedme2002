@@ -81,15 +81,10 @@ A full-featured delivery platform for food and medicine.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedme2002&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedme2002&theme=radical&hide_border=true&animate=true" width="100%" alt="Ahmed's Animated Activity Graph" />
 </div>
 
 <p align="center">
   <br>
   Developed with ❤️ by Ahmed Abdelkream
-</p>
+</
