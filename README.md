@@ -72,10 +72,10 @@ GluGlu is a health-tech app that protects users with allergies using AI-powered 
 
 <div align="center">
 
-<img src="assets/images/capture.png" width="220" alt="Health Passport screen"/>
-<img src="assets/images/scanner.png" width="220" alt="Scanner screen"/>
-<img src="assets/images/ai-analysis.jpeg" width="220" alt="AI Analysis screen"/>
-<img src="assets/images/setting.png" width="220" alt="Settings / passport screen"/>
+<img src="./Images/capture.png" width="220" alt="Health Passport screen"/>
+<img src="./Images/scanner.png" width="220" alt="Scanner screen"/>
+<img src="./Images/ai-analysis.jpeg" width="220" alt="AI Analysis screen"/>
+<img src="./Images/setting.png" width="220" alt="Settings / passport screen"/>
 
 </div>
 
