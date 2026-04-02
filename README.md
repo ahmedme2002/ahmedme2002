@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/Gmail-ahmed.abdelkreem.me%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<p><b>Email:</b> <a href="mailto:ahmed.abdelkreem.me@gmail.com">ahmed.abdelkreem.me@gmail.com</a></p>
-
 </div>
 
 ---
