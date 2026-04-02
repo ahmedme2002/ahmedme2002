@@ -110,17 +110,9 @@ GluGlu is a health-tech app that protects users with allergies using AI-powered 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedme2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmedme2002&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=ahmedme2002&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedme2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
+<img src="https://streak-stats.demolab.com?user=ahmedme2002&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
