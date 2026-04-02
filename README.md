@@ -1,9 +1,9 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Ahmed%20Abdelkream&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<h2>🚀 AI-Enabled Flutter Developer</h2>
+<h2>ðŸš€ AI-Enabled Flutter Developer</h2>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Clean+Architecture+Advocate;High-Performance+Mobile+Apps;AI+Integrated+Development" />
 
@@ -26,7 +26,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# ðŸ‘¨â€ðŸ’» About Me
 
 I am an **AI-Enabled Flutter Developer** with hands-on experience building **production-ready mobile applications**.
 
@@ -35,15 +35,15 @@ I specialize in:
 - BLoC / Scalable state management
 - High-performance UI systems
 
-I don’t just write code — I use **AI-assisted workflows** to eliminate boilerplate and focus on **architecture + business logic**.
+I donâ€™t just write code â€” I use **AI-assisted workflows** to eliminate boilerplate and focus on **architecture + business logic**.
 
-- 🔭 Working on **CalKam (Voice Log Feature)**
-- ⚡ High-speed workflow using **Warp + AI tools**
-- 🤝 Strong in **Agile + CI/CD + Code Reviews**
+- ðŸ”­ Working on **CalKam (Voice Log Feature)**
+- âš¡ High-speed workflow using **Warp + AI tools**
+- ðŸ¤ Strong in **Agile + CI/CD + Code Reviews**
 
 ---
 
-# 🛠️ Tech Stack
+# ðŸ› ï¸ Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@ I don’t just write code — I use **AI-assisted workflows** to eliminate boile
 
 ---
 
-# 🏆 Flagship Project: GluGlu (AI Allergy Assistant)
+# ðŸ† Flagship Project: GluGlu (AI Allergy Assistant)
 
 > **Production Ready | Lead Developer**
 
@@ -68,45 +68,45 @@ GluGlu is a health-tech app that protects users with allergies using AI-powered 
 
 ---
 
-## 📱 App Preview
+## ðŸ“± App Preview
 
 <div align="center">
 
-<img src="./Images/capture.png" width="220" alt="Health Passport screen"/>
-<img src="./Images/scanner.png" width="220" alt="Scanner screen"/>
-<img src="./Images/ai-analysis.jpeg" width="220" alt="AI Analysis screen"/>
-<img src="./Images/setting.png" width="220" alt="Settings / passport screen"/>
+<img src="https://raw.githubusercontent.com/ahmedme2002/ahmedme2002/main/assets/images/AI analysis .jpeg" width="200"/>
+<img src="https://raw.githubusercontent.com/ahmedme2002/ahmedme2002/main/assets/images/Capture .png" width="200"/>
+<img src="https://raw.githubusercontent.com/ahmedme2002/ahmedme2002/main/assets/images/Setting .png" width="200"/>
+<img src="https://raw.githubusercontent.com/ahmedme2002/ahmedme2002/main/assets/images/scaner.png" width="200"/>
 
 </div>
 
 ---
 
-## 💡 Key Features
+## ðŸ’¡ Key Features
 
-- 🧠 AI-powered ingredient analysis (GPT-based structured output)
-- 🏗️ Clean Architecture + BLoC
-- 📷 Barcode + OCR scanning system
-- ⚡ Real-time safety alerts
+- ðŸ§  AI-powered ingredient analysis (GPT-based structured output)
+- ðŸ—ï¸ Clean Architecture + BLoC
+- ðŸ“· Barcode + OCR scanning system
+- âš¡ Real-time safety alerts
 
 ---
 
-# 📂 Projects
+# ðŸ“‚ Projects
 
-## 💳 Wallet App (Crypto Portfolio)
+## ðŸ’³ Wallet App (Crypto Portfolio)
 - Real-time tracking for **500+ cryptocurrencies**
 - Smooth UI with zero lag
 - Secure local storage + biometrics
 
 ---
 
-## 🛵 Yalla Delivery App
+## ðŸ›µ Yalla Delivery App
 - Offline-first ordering system
 - Firebase (Auth + Firestore + FCM)
 - Real-time order tracking
 
 ---
 
-# 📈 GitHub Stats
+# ðŸ“ˆ GitHub Stats
 
 <div align="center">
 
@@ -130,6 +130,7 @@ GluGlu is a health-tech app that protects users with allergies using AI-powered 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
 
-### ❤️ Built with passion by Ahmed Abdelkream
+### â¤ï¸ Built with passion by Ahmed Abdelkream
 
 </div>
+
