@@ -9,18 +9,18 @@
 
 <br><br>
 
-<!-- SOCIALS -->
+<!-- CONNECT -->
+<h3>Let us Connect</h3>
+
 <a href="https://www.linkedin.com/in/ahmed-abdelkream/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ahmed.abdelkreem.me@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-ahmed.abdelkreem.me%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ahmedme2002&color=58a6ff&style=flat"/>
+<p><b>Email:</b> <a href="mailto:ahmed.abdelkreem.me@gmail.com">ahmed.abdelkreem.me@gmail.com</a></p>
 
 </div>
 
