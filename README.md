@@ -35,9 +35,6 @@ I specialize in:
 
 I don’t just write code — I use **AI-assisted workflows** to eliminate boilerplate and focus on **architecture + business logic**.
 
-- 🔭 Working on **CalKam (Voice Log Feature)**
-- ⚡ High-speed workflow using **Warp + AI tools**
-- 🤝 Strong in **Agile + CI/CD + Code Reviews**
 
 ---
 
